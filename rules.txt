@@ -1,0 +1,22 @@
+@@||t66y.com/*^$document
+tophub.today##.bc #Sortable:nth-child(2)
+https://www.ruanyifeng.com/blog/checker.js
+bilibili.com##.adblock-tips
+@@||tinyurl.so/*^$document
+meitaav.com##IMG[src="upload/site/20230201-1/734ac9a5428e89046750b3c7f9b45b58.gif"]
+meitaav.com##IMG[src="upload/site/20230130-1/68f8d0f4835f299490cba746bbdfea0e.gif"]
+meitaav.com##IMG[src="/upload/site/20230130-1/68f8d0f4835f299490cba746bbdfea0e.gif"]
+www.renren.pro##IMG[src="https://i.328888.xyz/2023/02/04/Nm3IP.gif"]
+www.renren.pro##IMG[src="https://i.328888.xyz/2023/02/04/Nmr4C.md.jpeg"]
+javdb.com##NAV[class="app-desktop-banner"]
+www.baidu.com##DIV[id="s_main"][class="main clearfix c-wrapper c-wrapper-l "]
+www.upyunso.com##DIV[id="layui-layer-shade1"][class="layui-layer-shade"]
+www.itspxx.com##DIV[id="xixi"]
+@@||bbs.xxbing.com/*^$document
+edu.51cto.com##DIV[class="four-recommend-ul clearfix2"]
+edu.51cto.com##DIV[class="min-study-path-in-box clearfix2"]
+www.idrlabs.com##DIV[id="mmt-82db8863-a5a9-4646-bfc4-7efa7ca1ddba"][class="mmt-primary"]
+www.idrlabs.com##DIV[id="mmt-2d0f0d6d-fc37-4e97-9fd3-f4a783efa6d1"][class="mmt-primary"]
+tophub.today##DIV[class="bc-tc"]
+tophub.today##DIV[class="alert alert-warning"]
+tophub.today##a[href="/c/shopping"]
